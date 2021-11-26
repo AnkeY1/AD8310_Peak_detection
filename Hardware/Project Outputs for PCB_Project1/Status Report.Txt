@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PCB_Project1.PrjPCB]
+   Generated File[AD8310·åÖµ¼ì²â.TXT]
+   Generated File[AD8310·åÖµ¼ì²â.LDP]
+   Generated File[AD8310·åÖµ¼ì²â.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:39:02 On 2021/8/1
